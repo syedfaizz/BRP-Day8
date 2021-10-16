@@ -17,4 +17,4 @@ namespace DayOfTheWeek
             Console.ReadKey();
         }
     }
-}
+
